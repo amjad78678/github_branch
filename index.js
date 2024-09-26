@@ -40,4 +40,8 @@ async function summary() {
   );
 }
 
+async function  resume() {
 
+    console.log('i maked some resume in here for resolving the github thinks')
+    
+}
